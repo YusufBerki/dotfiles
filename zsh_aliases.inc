@@ -5,3 +5,7 @@ alias VIRTUALENVWRAPPER_PYTHON="python3.9"
 
 # OS
 alias cd..='cd ..'
+
+# Editor
+alias vi='nvim'
+alias vim='nvim'
